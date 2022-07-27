@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here is the code of the challenge](https://github.com/MaxiTeddy/Product-preview-card-component)
-- Live Site URL: [Here is what the outcome look like](https://your-live-site-url.com)
+- Live Site URL: [Here is what the outcome look like](https://product-preview-card-kappa-steel.vercel.app/)
 
 ## My process
 
