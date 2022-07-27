@@ -80,5 +80,5 @@ How to make a page reponsive using flex and grid.
 
 ## Acknowledgments
 
-I would love to thank @Saogiji(https://github.com/saogiji) for his support and encouragement. 
+I would love to thank [@Saogiji](https://github.com/saogiji) for his support and encouragement. 
 
