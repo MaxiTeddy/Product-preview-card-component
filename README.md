@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://lh6.googleusercontent.com/um8v7L9L8DR8mXbUQwb62Em1QwigdSxNVgEL_2l2AW2Xk1prWm4Xwc0LEcZl2S9pe70=w2400)
-![](https://lh5.googleusercontent.com/dGXRFHRiC2odGgAHx2Y7B7yg9L68bzOKKZN7bLoX8unAL-guxwsCSDvuXQeypQI723I=w2400)
+![](https://lh5.googleusercontent.com/jQatwaUbulfn0rEZYVdPkGgCloHiyDng28uYLYBUj5w_NLMRZZozNxVYLccQI_JIWjs=w2400)
+![](https://lh3.googleusercontent.com/SKHjZ_Ei8tOZsqpoSfPj1E3XVsI2RDtuO20RACITFDWdUVdZod0tcwfwBR2MwbR-tuw=w2400)
 
 ### Links
 
